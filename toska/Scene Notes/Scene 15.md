@@ -1,4 +1,5 @@
 *Virgil and Jack*
 STATUS : INCOMPLETE
 
-Assemble
+Need Audio for whole take
+
