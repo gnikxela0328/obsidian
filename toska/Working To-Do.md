@@ -76,33 +76,33 @@ Easy ones:
 Not so easy ones (the rest):
 - [ ] Scene 2
 	- [ ] clean
-- [ ] Scene 3
+- [ ] Scene 3 (BLOCKED)
 	- [ ] select
 	- [ ] assemble
 	- [ ] clean
-- [ ] Scene 4
+- [ ] Scene 4 (BLOCKED)
 	- [ ] get audio
-- [ ] Scene 5
+- [ ] Scene 5 (BLOCKED)
 	- [ ] select
 	- [ ] assemble
 	- [ ] clean
-- [ ] Scene 8
+- [ ] Scene 8 (BLOCKED)
 	- [ ] get audio
 	- [ ] assemble
 	- [ ] clean
-- [ ] Scene 10
+- [ ] Scene 10 (BLOCKED)
 	- [ ] select
 	- [ ] assemble
 	- [ ] clean
-- [ ] Scene 14
+- [ ] Scene 14 (BLOCKED)
 	- [ ] get audio
 	- [ ] assemble
 	- [ ] clean
-- [ ] Scene 15
+- [ ] Scene 15 (BLOCKED)
 	- [ ] get audio 
 	- [ ] assemble
 	- [ ] clean
-- [ ] Scene 16
+- [ ] Scene 16 (BLOCKED)
 	- [ ] get audio
 	- [ ] assemble
 	- [ ] clean
