@@ -62,7 +62,7 @@ Easy ones:
 - [x] Scene 13 ✅ 2023-12-02
 - [ ] Scene 12
 - [x] Scene 11 ✅ 2023-12-02
-- [ ] Scene 6
+- [x] Scene 6 ✅ 2023-12-03
 - [x] Scene 7 ✅ 2023-12-02
 
 PRELIMINARY ASSEMBLY AND CLEANUP
@@ -73,7 +73,7 @@ STATUS:
 - [ ] [[Scene 3]] 
 - [ ] [[Scene 4]] 
 - [ ] [[Scene 5]] 
-- [ ] [[Scene 6]] 
+- [x] [[Scene 6]] ✅ 2023-12-03
 - [x] [[Scene 7]] ✅ 2023-12-03
 - [ ] [[Scene 8]] 
 - [x] [[Scene 9]] ✅ 2023-12-03
