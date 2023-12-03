@@ -4,222 +4,9 @@
     "type": "split",
     "children": [
       {
-        "id": "e02d05d9b4e9dcdf",
-        "type": "tabs",
-        "dimension": 35.893416927899686,
-        "children": [
-          {
-            "id": "e042c524aad4c6ca",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "toska/Scene Notes/Scene 1.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "0a395548a94b0514",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "toska/Scene Notes/Scene 2.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "682712ccc71686f9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "toska/Scene Notes/Scene 3.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "eb61aa555b246b50",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "toska/Scene Notes/Scene 4.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "af644d258c3c0da2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "toska/Scene Notes/Scene 5.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "8be1738a9fc601c4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "toska/Scene Notes/Scene 6.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "c09ed85e223b59eb",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "toska/Scene Notes/Scene 7.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "19e8a9a7e47d7ef1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "toska/Scene Notes/Scene 8.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "e5ebde55bffcff69",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "toska/Scene Notes/Scene 9.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "76c1d33f07f022a2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "toska/Scene Notes/Scene 10.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "ab38e3def92cc65a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "toska/Scene Notes/Scene 11.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "710c5f526ae56abc",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "toska/Scene Notes/Scene 12.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "a92de718cc8a3606",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "toska/Scene Notes/Scene 13.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "781bbd76397e5430",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "toska/Scene Notes/Scene 14.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "4844db6c51c5ea9c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "toska/Scene Notes/Scene 15.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "0f69b53a5f6a9a98",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "toska/Scene Notes/Scene 16.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          }
-        ],
-        "currentTab": 9
-      },
-      {
         "id": "12e1beab0ffd55f5",
         "type": "tabs",
-        "dimension": 64.1065830721003,
         "children": [
-          {
-            "id": "fa2a16af99cfa4a8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "toska/Scene Notes/Scene 14.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
           {
             "id": "917ba1345ab9cfaf",
             "type": "leaf",
@@ -232,8 +19,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -350,9 +136,17 @@
               "type": "advanced-tables-toolbar",
               "state": {}
             }
+          },
+          {
+            "id": "d708e2a6a5ba6e39",
+            "type": "leaf",
+            "state": {
+              "type": "todo",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
@@ -371,23 +165,23 @@
   },
   "active": "917ba1345ab9cfaf",
   "lastOpenFiles": [
-    "toska/Scene Notes/Scene 10.md",
+    "toska/Scene Notes/Scene 13.md",
     "toska/Scene Notes/Scene 14.md",
     "toska/Working To-Do.md",
-    "toska/Scene Notes/Scene 4.md",
     "toska/Scene Notes/Scene 3.md",
+    "toska/Scene Notes/Scene 2.md",
+    "toska/Scene Notes/Scene 11.md",
+    "toska/Scene Notes/Scene 6.md",
+    "toska/Scene Notes/Scene 10.md",
+    "toska/Scene Notes/Scene 4.md",
     "toska/Scene Notes/Scene 9.md",
     "toska/Scene Notes/Scene 1.md",
     "toska/Scene Notes/Scene 15.md",
-    "toska/Scene Notes/Scene 13.md",
     "toska/Scene Notes/Scene 16.md",
     "toska/Scene Notes/Scene 12.md",
-    "toska/Scene Notes/Scene 11.md",
     "toska/Scene Notes/Scene 8.md",
     "toska/Scene Notes/Scene 7.md",
-    "toska/Scene Notes/Scene 6.md",
     "toska/Scene Notes/Scene 5.md",
-    "toska/Scene Notes/Scene 2.md",
     "music/DJ Histories.md",
     "music/histories/2023-11-28.md",
     "music/histories",

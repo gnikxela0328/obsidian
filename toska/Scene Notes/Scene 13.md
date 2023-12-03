@@ -1,7 +1,9 @@
 *Louie and Sarah get to talking*
-STATUS : INCOMPLETE
+STATUS : COMPLETE
 
 log:
 23.12.2 - this one is assembled and cleaned, just needs special effects
 
-TODO: Do sfx on vocals, fix up wind
+
+- [x] do sfx on vocals ✅ 2023-12-02
+- [x] fix up wind ✅ 2023-12-02
