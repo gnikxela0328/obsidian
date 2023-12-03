@@ -1,6 +1,5 @@
 
-Completion Matrix
-
+## Completion Matrix
 
 | Scene Number | Completed | Assembled | Cleaned | Core Audio on file | Missing Audio | Needs VO Recording | Needs VO Selection | Needs Foley |
 |:------------:|:---------:|:---------:|:-------:|:------------------:|:-------------:|:------------------:|:------------------:|:-----------:|
@@ -9,7 +8,7 @@ Completion Matrix
 | [[Scene 3]]  |           |           |         |                    |       X       |                    |         X          |             |
 | [[Scene 4]]  |           |           |         |                    |       X       |                    |                    |             |
 | [[Scene 5]]  |           |           |         |                    |       X       |                    |         X          |             |
-| [[Scene 6]]  |           |     X     |    X    |         X          |               |                    |                    |      X      |
+| [[Scene 6]]  |     X      |     X     |    X    |         X          |               |                    |                    |      X      |
 | [[Scene 7]]  |     X     |     X     |         |         X          |               |                    |                    |             |
 | [[Scene 8]]  |           |           |         |                    |       X       |                    |                    |      X      |
 | [[Scene 9]]  |     X      |     X     |    X    |         X          |               |                    |                    |             |
@@ -22,6 +21,7 @@ Completion Matrix
 | [[Scene 16]] |           |           |         |                    |       X       |                    |                    |             |
 
 
+## Missing Asset Details
 
 Needs VO Recording
 - Scene 1
@@ -39,6 +39,11 @@ Missing Audio:
 - Scene 1
 	- [ ] Jack "Life Wasted"
 	- [ ] Jack Talking to virgil - whole take
+- Scene 2
+	- [ ] "Mistakes like this happen all the time"
+		- I have audio for this one, but its not the same take as v2 movie
+	- [ ] "Hey woah am I supposed to wait here?" Virgil getting called off
+		- missing audio starts when Louie hands papers back to virgil. Everything after this point is missing
 - Scene 4
 	- [ ] Whole scene
 - Scene 8
@@ -58,12 +63,51 @@ Missing Audio:
 - Scene 16
 	- [ ] Whole scene
 
+
+## Detailed Checklist
+
 Easy ones:
 - [x] Scene 13 ✅ 2023-12-02
 - [ ] Scene 12
 - [x] Scene 11 ✅ 2023-12-02
 - [x] Scene 6 ✅ 2023-12-03
 - [x] Scene 7 ✅ 2023-12-02
+
+Not so easy ones (the rest):
+- [ ] Scene 2
+	- [ ] clean
+- [ ] Scene 3
+	- [ ] select
+	- [ ] assemble
+	- [ ] clean
+- [ ] Scene 4
+	- [ ] get audio
+- [ ] Scene 5
+	- [ ] select
+	- [ ] assemble
+	- [ ] clean
+- [ ] Scene 8
+	- [ ] get audio
+	- [ ] assemble
+	- [ ] clean
+- [ ] Scene 10
+	- [ ] select
+	- [ ] assemble
+	- [ ] clean
+- [ ] Scene 14
+	- [ ] get audio
+	- [ ] assemble
+	- [ ] clean
+- [ ] Scene 15
+	- [ ] get audio 
+	- [ ] assemble
+	- [ ] clean
+- [ ] Scene 16
+	- [ ] get audio
+	- [ ] assemble
+	- [ ] clean
+
+## Final Checklist
 
 PRELIMINARY ASSEMBLY AND CLEANUP
 STATUS:
