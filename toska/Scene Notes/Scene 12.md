@@ -6,4 +6,7 @@ log:
 23.11.30 - Assembled and cleaned
 
 
-Needs Audio
+- [ ] VO "sarah really fell for you when you needed her the most, maybe you should talk to her" (low priority)
+- [ ] Fix mix, sounds a bit nasaly
+- [ ] wind sfx at end
+

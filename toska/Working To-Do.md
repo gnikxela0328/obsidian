@@ -2,24 +2,24 @@
 Completion Matrix
 
 
-| Scene Number | Assembled | Cleaned | Core Audio on file | Missing Audio | Needs VO Recording | Needs VO Selection | Needs Foley |
-|:------------:|:---------:|:-------:|:------------------:|:-------------:|:------------------:|:------------------:|:-----------:|
-| [[Scene 1]]  |     X     |         |         X          |       X       |         X          |                    |             |
-| [[Scene 2]]  |     X     |         |         X          |       X       |                    |                    |             |
-| [[Scene 3]]  |           |         |                    |        X       |                    |         X          |             |
-| [[Scene 4]]  |           |         |                    |       X        |                    |                    |             |
-| [[Scene 5]]  |           |         |                    |       X        |                    |         X          |             |
-| [[Scene 6]]  |     X     |    X    |         X          |               |                    |                    |      X      |
-| [[Scene 7]]  |     X     |         |         X          |               |                    |                    |             |
-| [[Scene 8]]  |           |         |                    |        X       |                    |                    |      X      |
-| [[Scene 9]]  |     X     |    X    |         X          |               |                    |                    |             |
-| [[Scene 10]] |           |         |                    |     X          |            X        |                  |             |
-| [[Scene 11]] |     X     |         |         X          |               |                    |                    |             |
-| [[Scene 12]] |     X     |    X    |         X          |               |         X          |                    |             |
-| [[Scene 13]] |     X     |    X    |         X          |               |                    |                    |             |
-| [[Scene 14]] |           |         |                    |       X       |                    |                    |             |
-| [[Scene 15]] |           |         |                    |       X       |                    |                    |             |
-| [[Scene 16]] |           |         |                    |        X      |                    |                    |             |
+| Scene Number | Completed | Assembled | Cleaned | Core Audio on file | Missing Audio | Needs VO Recording | Needs VO Selection | Needs Foley |
+|:------------:|:---------:|:---------:|:-------:|:------------------:|:-------------:|:------------------:|:------------------:|:-----------:|
+| [[Scene 1]]  |           |     X     |         |         X          |       X       |         X          |                    |             |
+| [[Scene 2]]  |           |     X     |         |         X          |       X       |                    |                    |             |
+| [[Scene 3]]  |           |           |         |                    |       X       |                    |         X          |             |
+| [[Scene 4]]  |           |           |         |                    |       X       |                    |                    |             |
+| [[Scene 5]]  |           |           |         |                    |       X       |                    |         X          |             |
+| [[Scene 6]]  |           |     X     |    X    |         X          |               |                    |                    |      X      |
+| [[Scene 7]]  |     X     |     X     |         |         X          |               |                    |                    |             |
+| [[Scene 8]]  |           |           |         |                    |       X       |                    |                    |      X      |
+| [[Scene 9]]  |     X      |     X     |    X    |         X          |               |                    |                    |             |
+| [[Scene 10]] |           |           |         |                    |       X       |         X          |                    |             |
+| [[Scene 11]] |     X     |     X     |         |         X          |               |                    |                    |             |
+| [[Scene 12]] |          |     X     |    X    |         X          |               |         X          |                    |             |
+| [[Scene 13]] |     X     |     X     |    X    |         X          |               |                    |                    |             |
+| [[Scene 14]] |           |           |         |                    |       X       |                    |                    |             |
+| [[Scene 15]] |           |           |         |                    |       X       |                    |                    |             |
+| [[Scene 16]] |           |           |         |                    |       X       |                    |                    |             |
 
 
 
@@ -59,11 +59,11 @@ Missing Audio:
 	- [ ] Whole scene
 
 Easy ones:
-- [ ] Scene 13
+- [x] Scene 13 ✅ 2023-12-02
 - [ ] Scene 12
-- [ ] Scene 11
+- [x] Scene 11 ✅ 2023-12-02
 - [ ] Scene 6
-- [ ] Scene 7
+- [x] Scene 7 ✅ 2023-12-02
 
 PRELIMINARY ASSEMBLY AND CLEANUP
 STATUS:
@@ -74,13 +74,13 @@ STATUS:
 - [ ] [[Scene 4]] 
 - [ ] [[Scene 5]] 
 - [ ] [[Scene 6]] 
-- [ ] [[Scene 7]] 
+- [x] [[Scene 7]] ✅ 2023-12-03
 - [ ] [[Scene 8]] 
-- [ ] [[Scene 9]] 
+- [x] [[Scene 9]] ✅ 2023-12-03
 - [ ] [[Scene 10]] 
-- [ ] [[Scene 11]] 
+- [x] [[Scene 11]] ✅ 2023-12-03
 - [ ] [[Scene 12]] 
-- [ ] [[Scene 13]] 
+- [x] [[Scene 13]] ✅ 2023-12-03
 - [ ] [[Scene 14]] 
 - [ ] [[Scene 15]] 
 - [ ] [[Scene 16]] 
