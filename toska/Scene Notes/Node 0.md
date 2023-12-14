@@ -1,0 +1,1 @@
+Jack monologue + Sarah walking through plain

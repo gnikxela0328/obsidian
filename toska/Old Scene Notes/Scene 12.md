@@ -7,6 +7,7 @@ log:
 
 
 - [ ] VO "sarah really fell for you when you needed her the most, maybe you should talk to her" (low priority)
-- [ ] Fix mix, sounds a bit nasaly
-- [ ] wind sfx at end
+- [x] Fix mix, sounds a bit nasaly ✅ 2023-12-04
+- [x] wind sfx at end ✅ 2023-12-04
 
+  

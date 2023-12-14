@@ -1,9 +1,32 @@
 
+
+
+
+- [ ] node 0 Jack ( missing audio )
+- [x] node 0 Louie and Sarah ✅ 2023-12-11
+- [ ] node 1
+- [ ] node 2 ( missing audio )
+- [x] node 3 ✅ 2023-12-13
+- [x] node 5 ✅ 2023-12-13
+- [x] node 6 ✅ 2023-12-12
+- [x] node 8 ✅ 2023-12-12
+- [x] node 10 ✅ 2023-12-11
+- [ ] node 12
+- [x] node 14 ✅ 2023-12-12
+- [ ] node 16
+
+
+
+
+
+
+---------------------------------
+
 ## Completion Matrix
 
 | Scene Number | Completed | Assembled | Cleaned | Core Audio on file | Missing Audio | Needs VO Recording | Needs VO Selection | Needs Foley |
 |:------------:|:---------:|:---------:|:-------:|:------------------:|:-------------:|:------------------:|:------------------:|:-----------:|
-| [[Scene 1]]  |           |     X     |         |         X          |       X       |         X          |                    |             |
+| [[Scene 1_OLD]]  |           |     X     |         |         X          |       X       |         X          |                    |             |
 | [[Scene 2]]  |           |     X     |         |         X          |       X       |                    |                    |             |
 | [[Scene 3]]  |           |           |         |                    |       X       |                    |         X          |             |
 | [[Scene 4]]  |           |           |         |                    |       X       |                    |                    |             |
@@ -112,7 +135,7 @@ Not so easy ones (the rest):
 PRELIMINARY ASSEMBLY AND CLEANUP
 STATUS:
 	X = Complete
-- [ ] [[Scene 1]] 
+- [ ] [[Scene 1_OLD]] 
 - [ ] [[Scene 2]] 
 - [ ] [[Scene 3]] 
 - [ ] [[Scene 4]] 
@@ -128,3 +151,8 @@ STATUS:
 - [ ] [[Scene 14]] 
 - [ ] [[Scene 15]] 
 - [ ] [[Scene 16]] 
+
+
+
+
+

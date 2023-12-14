@@ -1,4 +1,4 @@
-*Jack monologue*
+Jack monologue
 STATUS : INCOMPLETE
 
 log :

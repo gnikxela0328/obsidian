@@ -1,0 +1,1 @@
+Louie in park about to kill himself "last words"
